@@ -5,7 +5,7 @@
 [frogger_documentation](https://ale.farama.org/environments/frogger/)
 
 ## Gameplay Videos
-### 🕹️ DQN Donkey Kong Agent Evaluation
+### Frogger Agent Evaluation
 ### Baseline Agent (DQN)
 
 | Episode   | Avg Reward | Preview | Video |
