@@ -17,4 +17,4 @@
 
 | Episode        | Avg Reward             | Preview | Video |
 |----------------|------------------------|---------|-------|
-| Randomish | 45.52       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
+| DDQN | 45.52       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
