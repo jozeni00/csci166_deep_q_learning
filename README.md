@@ -10,11 +10,11 @@
 
 | Episode   | Avg Reward | Preview | Video |
 |-----------|------------|---------|-------|
-| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
+| Baseline DQN | 10.23       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
 
 
-### Variant Agent (Double + Dueling + PER)
+### Double DQN Agent (DDQN)
 
 | Episode        | Avg Reward             | Preview | Video |
 |----------------|------------------------|---------|-------|
-| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
+| Randomish | 45.52       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
