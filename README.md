@@ -8,6 +8,8 @@
 ### Frogger Agent Evaluation
 ### Baseline Agent (DQN)
 
+10+ videos of our agent [here](https://drive.google.com/drive/folders/1Cre2PrUVsduUd1kIxKtfm2RzNskktfmS?usp=sharing)
+
 | Episode   | Avg Reward | Preview | Video |
 |-----------|------------|---------|-------|
 | Baseline DQN | 10.23       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
