@@ -9,6 +9,11 @@ Deep Q-Learning Variant
   Your browser does not support the video tag.
 </video>
 
+![Early Frogger](early_frogger.gif)
+
+[Watch full video](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/early_frogger.mp4)
+
+
 [▶️ Click here to watch Early Frogger video](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/early_frogger.mp4)
 
 ---
@@ -18,5 +23,10 @@ Deep Q-Learning Variant
   <source src="https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/late_frogger.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+![Late Frogger](late_frogger.gif)
+
+[Watch full video](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/late_frogger.mp4)
+
 
 [▶️ Click here to watch Late Frogger video](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/late_frogger.mp4)
