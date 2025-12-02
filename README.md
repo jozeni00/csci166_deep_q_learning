@@ -10,11 +10,11 @@
 
 | Episode   | Avg Reward | Preview | Video |
 |-----------|------------|---------|-------|
-| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/early_frogger.mp4) |
+| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
 
 
 ### Variant Agent (Double + Dueling + PER)
 
 | Episode        | Avg Reward             | Preview | Video |
 |----------------|------------------------|---------|-------|
-| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/late_frogger.mp4) |
+| Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://jozeni00.github.io/csci166_deep_q_learning/) |
