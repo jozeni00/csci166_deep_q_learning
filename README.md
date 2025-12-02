@@ -18,4 +18,3 @@
 | Episode        | Avg Reward             | Preview | Video |
 |----------------|------------------------|---------|-------|
 | Randomish | ~200       | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | [▶ Watch](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/late_frogger.mp4) |
-| End/Learned    | ~1300–1400 (volatile)  | ![Thumbnail](https://raw.githubusercontent.com/jozeni00/csci166_deep_q_learning/main/snapshot.jpg) | *(Video link was not included in your original snippet — tell me the URL and I’ll add it!)* |
